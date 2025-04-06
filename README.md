@@ -1,4 +1,4 @@
-Hi, I’m Jacopo Radace (@JGekko99) 👋 – a passionate Fintech enthusiast and emerging leader at the intersection of technology and finance. I’m currently pursuing a Master’s degree in Economics and Business Administration at LIUC 🎓, specializing in Banking, Markets, and Corporate Finance with a Fintech orientation.
+Hi, I’m Jacopo Radice (@JGekko99) 👋 – a passionate Fintech enthusiast and emerging leader at the intersection of technology and finance. I’m currently pursuing a Master’s degree in Economics and Business Administration at LIUC 🎓, specializing in Banking, Markets, and Corporate Finance with a Fintech orientation.
 
 My journey includes hands-on experiences in financial analysis and IT from internships and job shadowing at Bloomberg, Bene Assicurazioni, and ABL Soluzioni Informatiche 💼. I’m skilled in Python, MATLAB, R, and C++ 💻, and I love leveraging digital transformation to innovate within private banking and wealth management 🚀.
 
